@@ -1,0 +1,13 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+Library/**
+Temp/**
+knetikcloud-unity-sdk.sln
+knetikcloud-unity-sdk.csproj
+knetikcloud-unity-sdk.Editor.csproj
+**\.mdb**
+**\.pdb**
+**/\.vs/**
+**\.user**
+.project
+nuget.exe
+vendor/
